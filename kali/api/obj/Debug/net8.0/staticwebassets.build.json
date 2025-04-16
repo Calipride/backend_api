@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "B23+c2w97PXsuN7BF548HIrwuwtp5J+LXwCe7JZ2Jzw=",
+  "Source": "api",
+  "BasePath": "_content/api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "api/wwwroot",
+      "Source": "api",
+      "ContentRoot": "/Users/november/Desktop/kali/api/wwwroot/",
+      "BasePath": "_content/api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
