@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B23+c2w97PXsuN7BF548HIrwuwtp5J+LXwCe7JZ2Jzw=",
+  "Hash": "wjnoZRaXR5NtczAM46AgKplDiia5WWdBueF7xBfbHNg=",
   "Source": "api",
   "BasePath": "_content/api",
   "Mode": "Default",
@@ -10,11 +10,30 @@
     {
       "Name": "api/wwwroot",
       "Source": "api",
-      "ContentRoot": "/Users/november/Desktop/kali/api/wwwroot/",
+      "ContentRoot": "/workspaces/backend_api/kali/api/wwwroot/",
       "BasePath": "_content/api",
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "/workspaces/backend_api/kali/api/wwwroot/.gitkeep",
+      "SourceId": "api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/backend_api/kali/api/wwwroot/",
+      "BasePath": "_content/api",
+      "RelativePath": ".gitkeep",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.gitkeep"
+    }
+  ]
 }

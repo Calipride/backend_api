@@ -1,1 +1,1 @@
-{"ContentRoots":["/Users/november/Desktop/kali/api/wwwroot/"],"Root":{"Children":null,"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{"ContentRoots":["/workspaces/backend_api/kali/api/wwwroot/"],"Root":{"Children":{".gitkeep":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":".gitkeep"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
